@@ -8,11 +8,20 @@ ownCloud admins and users.
 Summary
 -------
 
+* Enhancement - Replace blank view in music player with cover art: [#3121](https://github.com/owncloud/android/issues/3121)
 * Enhancement - Support for apk files: [#2691](https://github.com/owncloud/android/issues/2691)
 * Enhancement - Align previews actions: [#3155](https://github.com/owncloud/android/issues/3155)
 
 Details
 -------
+
+* Enhancement - Replace blank view in music player with cover art: [#3121](https://github.com/owncloud/android/issues/3121)
+
+   We replaced the blank view in the music preview player with styled up cover art. For music files
+   that does not have cover art embodied we made it display a place holder.
+
+   https://github.com/owncloud/android/issues/3121
+   https://github.com/owncloud/android/pull/3182
 
 * Enhancement - Support for apk files: [#2691](https://github.com/owncloud/android/issues/2691)
 
